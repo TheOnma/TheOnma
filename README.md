@@ -1,8 +1,4 @@
-# Hi! My name is Precious Adekwu
-
-I build AI systems for environments where being wrong is expensive!
-
-I'm an AI engineer and smart contract security researcher based in Nigeria, working across LLM agent systems and blockchain security. Co-founder at **Alma Labs** (blockchain security research), founder of **Jurisa** (AI engineering consultancy), and an alum of the **Uniswap Foundation Incubator, Cohort 7**.
+AI engineer and smart contract security researcher based in Nigeria, working across LLM agent systems and blockchain security. Co-founder at **Alma Labs** (blockchain security research), founder of **Jurisa** (AI engineering consultancy), and an alum of the **Uniswap Foundation Incubator, Cohort 7**.
 
 [LinkedIn](https:linkedin.com/in/precious-adekwu/) &nbsp;|&nbsp; [X / Twitter @onma_eth](https://x.com/onma_eth) &nbsp;|&nbsp; preciousadekwu1@gmail.com
 

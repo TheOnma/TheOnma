@@ -4,9 +4,8 @@
 > Building deterministic AI agent architectures and formal blockchain security systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![X/Twitter](https://img.shields.io/badge/X-@onma__eth-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/onma_eth)
-[![Email](https://img.shields.io/badge/Email-preciousadekwu1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:preciousadekwu1@gmail.com)
-
+[![X/Twitter](https://img.shields.io/badge/X-@onma__eth-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/onmathetitan)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:preciousadekwu1@gmail.com)
 ---
 
 ### ⚡ Focus
@@ -75,15 +74,5 @@ I design systems at the intersection of **AI agents that have to be right** and 
 
 ---
 
-### 📊 Activity & Languages
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheOnma&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnma&layout=compact&theme=transparent&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
   <i>Currently building agent systems that require deterministic correctness — open to mission-critical engineering teams.</i>
 </p>

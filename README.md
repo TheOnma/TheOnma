@@ -34,7 +34,7 @@ I design systems at the intersection of **AI agents that have to be right** and 
   * Features a closed **SimRAG-style self-eval loop** to iteratively evaluate and optimize hit rates.
   * `Python` · `LangGraph` · `FastAPI` · `ChromaDB` · `Claude API`
 
-* * **Argos Scribe** *(by Jurisa · Closed Source / Enterprise)*  
+* **Argos Scribe** *(by Jurisa · Closed Source / Enterprise)*  
   *Polymorphic Proposal-Ops engine automating B2B SOW generation from discovery call transcripts and raw RFPs.*
   * Built on a 7-stage deterministic LangGraph architecture featuring bounded self-critique loops, dynamic service tier mapping, strict in-scope/out-of-scope bounding, and Pydantic structured output validation.
   * `Python` · `LangGraph` · `FastAPI` · `Supabase (PostgreSQL/RLS)` · `Claude API` · `Next.js`
@@ -76,8 +76,6 @@ I design systems at the intersection of **AI agents that have to be right** and 
 - **Languages:** Python · TypeScript · Solidity · Rust · SQL
 - **Security & Testing:** Halmos · Certora · Foundry · Property Fuzzing · Invariant Testing · SP1 zkVM
 - **Backend & Infra:** FastAPI · Next.js · PostgreSQL · AWS
-
----
 
   <i>Currently building agent systems that require deterministic correctness — open to mission-critical engineering teams.</i>
 </p>

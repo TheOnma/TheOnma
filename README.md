@@ -4,7 +4,7 @@
 > Building deterministic AI agent architectures and formal blockchain security systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![X/Twitter](https://img.shields.io/badge/X-@onma__eth-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/onmathetitan)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/onmathetitan)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:preciousadekwu1@gmail.com)
 ---
 

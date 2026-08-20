@@ -1,54 +1,89 @@
-AI engineer and security researcher, working across LLM agent systems and blockchain security. Co-founder at **Alma Labs** (blockchain security research), founder of **Jurisa** (AI engineering consultancy), and an alum of the **Uniswap Foundation Incubator, Cohort 7**.
+# Precious Adekwu
 
-[LinkedIn](https:linkedin.com/in/precious-adekwu/) &nbsp;|&nbsp; [X / Twitter @onma_eth](https://x.com/onma_eth) &nbsp;|&nbsp; preciousadekwu1@gmail.com
+> **AI Systems Engineer & Security Researcher**  
+> Building deterministic AI agent architectures and formal blockchain security systems.
 
----
-
-## What I build
-
-I split my time between two things that turn out to share a lot of infrastructure: AI agents that have to be right, and smart contracts that have to be safe.
-
-### AI Systems
-
-**[Research Agent](https://github.com/TheOnma/research-agent)**
-A local RAG system with hybrid retrieval (dense embeddings plus BM25, merged with Reciprocal Rank Fusion) and HyDE query expansion. Every answer is grounded and cited; below a relevance threshold it refuses to answer rather than guess. Extended with paper discovery across arXiv and Semantic Scholar, producing citation grounded literature summaries with an evaluation harness for retrieval and citation accuracy.
-`Python` `FastAPI` `ChromaDB` `React` `Claude` `OpenAI Embeddings`
-
-**[Smart Contract Audit Agent](https://github.com/TheOnma/smart-contract-audit-agent)**
-An AI assisted auditing system combining RAG retrieval, formal verification, property based fuzzing, and adversarial reasoning. Independently surfaced a validated Medium severity vulnerability in Revert Finance's production code during a live public audit competition, an externally verified result, not a demo.
-`Python` `Halmos` `Medusa` `Foundry` `RAG`
-
-**RemoteLlama**
-A full stack job board for remote AI roles, built solo end to end: self serve employer posting with a Zod validated flow, LemonSqueezy payments with HMAC verified webhooks, and an automated scraping pipeline using the OpenAI API to parse and categorize postings.
-`Next.js` `TypeScript` `PostgreSQL` `Supabase` `OpenAI API`
-
-### Blockchain
-
-**AsyncSwap** (built during the Uniswap Foundation Incubator, Cohort 7)
-A production decentralized trading protocol that mitigates sandwich attacks through asynchronous execution: a non custodial delayed execution mechanism with a permissionless settlement network, backed by extensive invariant testing.
-`Solidity` `Foundry`
-
-**Secret Market**
-A privacy preserving prediction market built on Zama's FHEVM. Recognized as a Developer Contributor by Zama.
-`FHEVM` `Solidity`
-
-**TrackFlow**
-A decentralized task orchestration platform powered by Succinct's SP1 zkVM.
-`SP1 zkVM` `Rust`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![X/Twitter](https://img.shields.io/badge/X-@onma__eth-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/onma_eth)
+[![Email](https://img.shields.io/badge/Email-preciousadekwu1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:preciousadekwu1@gmail.com)
 
 ---
 
-## Track record
+### ⚡ Focus
 
-- Ranked 29 out of 773 (top 4%) in the Revert Finance StableSwap Hooks audit contest
-- Selected for the Uniswap Foundation Incubator, Cohort 7
-- Recognized as a Developer Contributor by Zama for Secret Market
-- Validated Medium severity finding in Revert Finance's production code, produced by an AI system I built
+I design systems at the intersection of **AI agents that have to be right** and **smart contracts that have to be safe**.
 
-## Stack
-
-`Python` `TypeScript` `Solidity` `Rust` `LangGraph` `FastAPI` `Next.js` `PostgreSQL` `AWS` `RAG / Vector Search` `Formal Verification` `Fuzzing`
+- **Alma Labs** — Co-Founder (Blockchain security research & autonomous verification)
+- **Jurisa** — Founder (AI engineering & operations orchestration)
+- **Uniswap Foundation Incubator** — Alum, Cohort 7
 
 ---
 
-*Currently building AI agent systems where reliability is the actual feature, and looking for the next environment where that's the job.*
+### 🛠️ Featured Systems
+
+#### 🧠 AI Systems & Autonomous Agents
+
+* **Smart Contract Audit Agent**  
+  *Automated vulnerability discovery via hybrid RAG, property-based fuzzing, and formal verification.*
+  * **Milestone:** Placed **29/773 (top 4%)** in a live Cantina contest; independently surfaced a verified Medium-severity vulnerability in Revert Finance production code.
+  * **Benchmarks:** `1.0 Recall@10` and `0.95` end-to-end detection rate across 20 confirmed production vulnerabilities.
+  * `Python` · `Halmos` · `Foundry` · `Certora` · `Formal Verification`
+
+* **Research Agent**  
+  *Local-first autonomous literature retrieval & multi-step synthesis.*
+  * Hybrid dense + BM25 retrieval fused via **Reciprocal Rank Fusion (RRF)**, HyDE query expansion, and a CRAG-style corrective judge.
+  * Features a closed **SimRAG-style self-eval loop** to iteratively evaluate and optimize hit rates.
+  * `Python` · `LangGraph` · `FastAPI` · `ChromaDB` · `Claude API`
+
+* **RemoteLlama**  
+  *Full-stack automated talent platform for remote AI engineering.*
+  * Self-serve employer posting pipeline, LemonSqueezy HMAC-verified webhook processing, and structured LLM extraction routines.
+  * `Next.js` · `TypeScript` · `PostgreSQL` · `OpenAI API`
+
+---
+
+#### ⛓️ Blockchain & Cryptographic Infrastructure
+
+* **AsyncSwap** *(Uniswap Foundation Incubator, Cohort 7)*  
+  *Production DEX protocol mitigating sandwich attacks via non-custodial asynchronous execution and permissionless settlement networks.*  
+  `Solidity` · `Foundry` · `Invariant Testing`
+
+* **Secret Market** *(Recognized by Zama as Developer Contributor)*  
+  *Privacy-preserving prediction market built on Fully Homomorphic Encryption.*  
+  `FHEVM` · `Solidity`
+
+* **TrackFlow**  
+  *Decentralized verifiable task orchestration system.*  
+  `SP1 zkVM` · `Rust`
+
+---
+
+### 🏆 Validated Track Record
+
+* 🥈 **Top 4% (29/773)** — Cantina Revert Finance StableSwap Hooks Audit Contest (automated finding).
+* 🦄 **Uniswap Foundation Incubator** — Selected for Cohort 7.
+* 🛡️ **Zama Developer Contributor** — Official contributor recognition for FHEVM implementation.
+
+---
+
+### 🧰 Technical Stack
+
+- **AI & Orchestration:** LangGraph · RAG Pipelines · CRAG · HyDE · ChromaDB · Evaluation Loops
+- **Languages:** Python · TypeScript · Solidity · Rust · SQL
+- **Security & Testing:** Halmos · Certora · Foundry · Property Fuzzing · Invariant Testing · SP1 zkVM
+- **Backend & Infra:** FastAPI · Next.js · PostgreSQL · AWS
+
+---
+
+### 📊 Activity & Languages
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TheOnma&show_icons=true&theme=transparent&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOnma&layout=compact&theme=transparent&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=6" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Currently building agent systems that require deterministic correctness — open to mission-critical engineering teams.</i>
+</p>

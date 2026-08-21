@@ -50,9 +50,10 @@ I design systems at the intersection of **AI agents that have to be right** and 
   *Production DEX protocol mitigating sandwich attacks via non-custodial asynchronous execution and permissionless settlement networks.*  
   `Solidity` · `Foundry` · `Invariant Testing`
 
-* **[Secret Market](https://github.com/TheOnma/secret-market-fhevm)** *(Recognized by Zama as Developer Contributor)*  
-  *Privacy-preserving prediction market built on Fully Homomorphic Encryption.*  
-  `FHEVM` · `Solidity`
+* **[Solana Instruction Extractor (SIE)](https://github.com/TheOnma/solana-instruction-extractor)**  
+  *Binary analysis and reverse-engineering CLI for Solana sBPF program binaries.*  
+  * Automates binary fetching, opcode disassembly via Ghidra/sBPF tools, instruction pattern matching, and account permission privilege analysis (signer/writable state).  
+  `Python` · `Ghidra` · `sBPF` · `Binary Analysis` · `Solana CLI`
 
 * **[TrackFlow](https://github.com/TheOnma/TrackFlow-App-Sp1)** 
   *Decentralized verifiable task orchestration system.*  
@@ -64,7 +65,7 @@ I design systems at the intersection of **AI agents that have to be right** and 
 
 * 🥈 **Top 4% (29/773)** — Cantina Revert Finance StableSwap Hooks Audit Contest (automated finding).
 * 🦄 **Uniswap Foundation Incubator** — Selected for Cohort 7.
-* 🛡️ **Zama Developer Contributor** — Official contributor recognition for FHEVM implementation.
+* 🎯 **1.0 Recall@10 / 0.95 Detection** — Benchmarked custom hybrid-retrieval and auditing agent against 20 confirmed production vulnerabilities.
 
 ---
 

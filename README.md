@@ -26,7 +26,7 @@ I design systems at the intersection of **AI agents that have to be right** and 
   * **Benchmarks:** `1.0 Recall@10` and `0.95` end-to-end detection rate across 20 confirmed production vulnerabilities.
   * `Python` · `Halmos` · `Foundry` · `Certora` · `Formal Verification`
 
-* **[Research Agent](https://github.com/TheOnma/lexica-research-agent)** 
+* **[Lexica Research Agent](https://github.com/TheOnma/lexica-research-agent)** 
   *Local-first autonomous literature retrieval & multi-step synthesis.*
   * Hybrid dense + BM25 retrieval fused via **Reciprocal Rank Fusion (RRF)**, HyDE query expansion, and a CRAG-style corrective judge.
   * Features a closed **SimRAG-style self-eval loop** to iteratively evaluate and optimize hit rates.

@@ -20,17 +20,17 @@ I design systems at the intersection of **AI agents that have to be right** and 
 
 #### 🧠 AI Systems & Autonomous Agents
 
-* **[Smart Contract Audit Agent](https://github.com/TheOnma/smart-contract-audit-agent)**   
-  *Automated vulnerability discovery via hybrid RAG, property-based fuzzing, and formal verification.*
-  * **Milestone:** Placed **29/773 (top 4%)** in a live Cantina contest; independently surfaced a verified Medium-severity vulnerability in Revert Finance production code.
-  * **Benchmarks:** `1.0 Recall@10` and `0.95` end-to-end detection rate across 20 confirmed production vulnerabilities.
-  * `Python` · `Halmos` · `Foundry` · `Certora` · `Formal Verification`
-
 * **[Lexica Research Agent](https://github.com/TheOnma/lexica-research-agent)** 
   *Local-first autonomous literature retrieval & multi-step synthesis.*
   * Hybrid dense + BM25 retrieval fused via **Reciprocal Rank Fusion (RRF)**, HyDE query expansion, and a CRAG-style corrective judge.
   * Features a closed **SimRAG-style self-eval loop** to iteratively evaluate and optimize hit rates.
   * `Python` · `LangGraph` · `FastAPI` · `ChromaDB` · `Claude API`
+ 
+* **[Smart Contract Audit Agent](https://github.com/TheOnma/smart-contract-audit-agent)**   
+  *Automated vulnerability discovery via hybrid RAG, property-based fuzzing, and formal verification.*
+  * **Milestone:** Placed **29/773 (top 4%)** in a live Cantina contest; independently surfaced a verified Medium-severity vulnerability in Revert Finance production code.
+  * **Benchmarks:** `1.0 Recall@10` and `0.95` end-to-end detection rate across 20 confirmed production vulnerabilities.
+  * `Python` · `Halmos` · `Foundry` · `Certora` · `Formal Verification`
 
 * **Argos Scribe** *(by Jurisa · Closed Source / Enterprise)*  
   *Polymorphic Proposal-Ops engine automating B2B SOW generation from discovery call transcripts and raw RFPs.*
